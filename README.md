@@ -1,5 +1,6 @@
 ## Hi there, I'm Aaron
-www.linkedin.com/in/aaron-moseley62
+www.linkedin.com/in/aaron-moseley62 >< src = https://img.shields.io/badge/www.linkedin.com%2Fin%2Faaron-moseley62
+
 <!--
 **Aarmose62/Aarmose62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
